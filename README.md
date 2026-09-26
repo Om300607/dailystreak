@@ -1,7 +1,6 @@
 # DailyStreak 🔥
 
-A frontend-only habit tracking app built with Flutter for the 2nd-year
-mobile app assignment, in a dark "Midnight" theme with an amber accent.
+A dark-themed habit tracking app built with Flutter, letting users create, track, and analyze daily habits with streaks, a browsable calendar, and monthly/yearly stats.
 
 ## Features
 - **Home screen**: animated, glowing circular progress ring, a week
